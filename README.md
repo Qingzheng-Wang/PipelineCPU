@@ -28,7 +28,9 @@
 	<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/cpu.jpg?raw=true" alt="device_place" width="600" />
 
 <p>
+	<b>
 	CPU Architecture
+	</b>
 </p>
 </div>
 
