@@ -16,6 +16,25 @@
     <a href="https://github.com/Qingzheng-Wang/PipelineCPU/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPL-yellow.svg" alt="gpl"></a>
 </div>
 
+
+<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/soc_top_map.png?raw=true" alt="device_place" width="400" />
+
+<center>
+    <b>
+		SOC Top Map
+    </b>
+</center>
+
+
+
+<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/cpu.jpg?raw=true" alt="device_place" width="900" />
+
+<center>
+    <b>
+		CPU Architecture
+    </b>
+</center>
+
 ## Documents
 
 - [Manual](https://github.com/Qingzheng-Wang/PipelineCPU/wiki)
