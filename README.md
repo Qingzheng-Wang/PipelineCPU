@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/soc_top_map.png?raw=true" alt="device_place" width="900" />
+<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/soc_top_map.png?raw=true" alt="device_place" width="500" />
 
 <div style="text-align: center;">
   <p>SOC Top Map</p>
