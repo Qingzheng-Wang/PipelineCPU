@@ -17,7 +17,7 @@
 </div>
 
 
-
+<br>
 <center>
 <img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/soc_top_map.png?raw=true" alt="device_place" width="900" />
 	SOC Top Map
