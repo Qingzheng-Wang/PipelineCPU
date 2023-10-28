@@ -31,9 +31,9 @@
 
 <img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/cpu.jpg?raw=true" alt="device_place" width="900" />
 
-<center>
+<p>
 	CPU Architecture
-</center>
+</p>
 
 ## Documents
 
