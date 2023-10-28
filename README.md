@@ -18,7 +18,7 @@
 
 ## Documents
 
-- [Manual]([Home · Qingzheng-Wang/PipelineCPU Wiki (github.com)](https://github.com/Qingzheng-Wang/PipelineCPU/wiki))
+- [Manual](https://github.com/Qingzheng-Wang/PipelineCPU/wiki)
 - [SOC Top Map](https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/top_map.pdf)
 - [CPU Architecture](https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/cpu.jpg)
 - [Development Log](https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/dev_log.md)
