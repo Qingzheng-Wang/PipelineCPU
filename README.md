@@ -25,7 +25,7 @@
 	<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/soc_top_map.png?raw=true" alt="device_place" width="500" />
   <p>SOC Top Map</p>
 	<br>
-	<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/cpu.jpg?raw=true" alt="device_place" width="500" />
+	<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/cpu.jpg?raw=true" alt="device_place" width="600" />
 
 <p>
 	CPU Architecture
