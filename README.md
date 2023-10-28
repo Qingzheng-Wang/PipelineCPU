@@ -23,7 +23,7 @@
 
 <div align = "center">
 	<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/soc_top_map.png?raw=true" alt="device_place" width="500" />
-  <p>SOC Top Map</p>
+  <p><b>SOC Top Map</b></p>
 	<br>
 	<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/cpu.jpg?raw=true" alt="device_place" width="600" />
 
