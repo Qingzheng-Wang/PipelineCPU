@@ -1,0 +1,14 @@
+xst -intstyle ise -ifn "Z:/Share/PPCPU_Final/IP2SOC_Top.xst" -ofn "Z:/Share/PPCPU_Final/IP2SOC_Top.syr" 
+xst -intstyle ise -ifn "Z:/Share/PPCPU_Final/IP2SOC_Top.xst" -ofn "Z:/Share/PPCPU_Final/IP2SOC_Top.syr" 
+xst -intstyle ise -ifn "Z:/Share/PPCPU_Final/IP2SOC_Top.xst" -ofn "Z:/Share/PPCPU_Final/IP2SOC_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc Org-Sword.ucf -p xc7k160t-ffg676-2L IP2SOC_Top.ngc IP2SOC_Top.ngd  
+map -intstyle ise -p xc7k160t-ffg676-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o IP2SOC_Top_map.ncd IP2SOC_Top.ngd IP2SOC_Top.pcf 
+par -w -intstyle ise -ol high -mt off IP2SOC_Top_map.ncd IP2SOC_Top.ncd IP2SOC_Top.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml IP2SOC_Top.twx IP2SOC_Top.ncd -o IP2SOC_Top.twr IP2SOC_Top.pcf -ucf Org-Sword.ucf 
+bitgen -intstyle ise -f IP2SOC_Top.ut IP2SOC_Top.ncd 
+xst -intstyle ise -ifn "Z:/Share/PPCPU_Final/IP2SOC_Top.xst" -ofn "Z:/Share/PPCPU_Final/IP2SOC_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc Org-Sword.ucf -p xc7k160t-ffg676-2L IP2SOC_Top.ngc IP2SOC_Top.ngd  
+map -intstyle ise -p xc7k160t-ffg676-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o IP2SOC_Top_map.ncd IP2SOC_Top.ngd IP2SOC_Top.pcf 
+par -w -intstyle ise -ol high -mt off IP2SOC_Top_map.ncd IP2SOC_Top.ncd IP2SOC_Top.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml IP2SOC_Top.twx IP2SOC_Top.ncd -o IP2SOC_Top.twr IP2SOC_Top.pcf -ucf Org-Sword.ucf 
+bitgen -intstyle ise -f IP2SOC_Top.ut IP2SOC_Top.ncd 

@@ -1,0 +1,14 @@
+
+run
+-ifmt VHDL
+-ent IP1_exdes 
+-p xc7k160t-ffg676-2l
+-ifn xst.prj
+-write_timing_constraints No
+-iobuf YES
+-max_fanout 100
+-ofn IP1_exdes 
+-ofmt NGC
+-bus_delimiter ()
+-hierarchy_separator /
+-case Maintain
