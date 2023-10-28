@@ -19,12 +19,10 @@
 
 
 
-<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/soc_top_map.png?raw=true" alt="device_place" width="400" />
+<img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/soc_top_map.png?raw=true" alt="device_place" width="900" />
 
 <center>
-    <b>
-		SOC Top Map
-    </b>
+	SOC Top Map
 </center>
 
 
@@ -34,9 +32,7 @@
 <img src="https://github.com/Qingzheng-Wang/PipelineCPU/blob/main/doc/cpu.jpg?raw=true" alt="device_place" width="900" />
 
 <center>
-    <b>
-		CPU Architecture
-    </b>
+	CPU Architecture
 </center>
 
 ## Documents
