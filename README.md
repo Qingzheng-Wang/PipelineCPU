@@ -51,7 +51,7 @@
 
 | Feature         | RISC-V CPU                                                   |
 | --------------- | ------------------------------------------------------------ |
-| ISA             | RISC-V ([RV32I subset](https://github.com/Evensgn/RISC-V-CPU/blob/master/doc/inst-supported.md)) |
+| ISA             | RISC-V (RV32I subset) |
 | Pipelining      | 5 stages                                                     |
 | Data forwarding | √                                                            |
 
